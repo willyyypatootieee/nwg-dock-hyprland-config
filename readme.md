@@ -1,4 +1,4 @@
-Desktop Screenshot
+# Desktop Screenshot
 
 ![nwg-dock-hyprland screenshot](image.png)
 
