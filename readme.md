@@ -1,3 +1,5 @@
+Desktop Screenshot
+
 ![nwg-dock-hyprland screenshot](image.png)
 
 # nwg-dock-hyprland Configuration Guide
